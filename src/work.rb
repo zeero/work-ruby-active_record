@@ -5,7 +5,7 @@ require_relative 'db'
 # work with sample table
 class WorkSample
   def show
-    puts Sample.all
+    Sample.all
   end
 end
 
