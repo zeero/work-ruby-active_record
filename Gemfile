@@ -11,4 +11,5 @@ gem 'minitest'
 gem 'minitest-doc_reporter'
 gem 'minitest-stub_any_instance'
 gem 'rake'
+gem 'sqlite3'
 
